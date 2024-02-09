@@ -1,0 +1,15 @@
+.p-tag{
+    color: blue;
+}
+#first{
+    color: red;
+}
+span {
+    background-color: red;
+}
+div {
+    background-color: blue;
+    margin: 5px;
+    height: 200px;
+    width: 200px;
+}
